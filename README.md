@@ -27,7 +27,7 @@ To use this library, you need:
 1. Clone the repository:
    ```bash
    git clone git@github.com:mouadisfree/Libft.git
-   cd Libft
+   cd Libft/Libft 
 
 
 2. Build the library:
