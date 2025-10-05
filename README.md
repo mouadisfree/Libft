@@ -1,6 +1,6 @@
 
 # Libft - My C Library
-![Libft Banner](https://github.com/user-attachments/assets/c37a59df-3dd9-4503-b97f-ff24cd1a8206)
+![alt text](<Screenshot from 2025-10-05 08-51-46-1.png>)
 *My first C library project*
 ---
 ## What is this?
@@ -9,29 +9,18 @@
 ---
 
 ## Functions I Built
-- I made my own versions of basic C functions like `strlen`, `strcpy`, and `memcpy`.
-- I added extra helpful functions for text and memory.
-- I made functions for linked lists (lists that can grow).
-- The code follows school style rules.
 
----
-
-## All Functions
-
-### Standard Functions
-Basic C functions I remade:
+### Standard C Functions
 - **Text**: `ft_strlen`, `ft_strcpy`, `ft_strjoin`
 - **Memory**: `ft_memset`, `ft_memcpy`, `ft_memmove`
 - **Letters/Numbers**: `ft_isalpha`, `ft_isdigit`, `ft_tolower`
 
 ### Extra Functions
-Helpful extras I added:
 - **Text Tools**: `ft_substr`, `ft_strtrim`, `ft_split`
 - **Numbers**: `ft_itoa`
 - **Memory**: `ft_calloc`
 
 ### List Functions
-For working with lists:
 - `ft_lstnew`: Make new list item
 - `ft_lstadd_front`: Add to front
 - `ft_lstiter`: Do something to each item
@@ -67,4 +56,4 @@ Made by **mouadisfree** as a student at **1337 School** (part of the 42 coding s
 ---
 
 ## Thanks
-Thanks to 1337 School and all my classmates who helped me learn!
+Thanks to 1337 School and all my peers who helped me learn!
