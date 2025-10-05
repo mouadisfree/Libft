@@ -81,7 +81,7 @@ Contributions are not accepted for this project, as it is an academic assignment
 ---
 
 ## Author
-Developed by **mokatfi** as part of the curriculum at **1337 School**, a member of the 42 Network.
+Developed by **mouadisfree** as part of the curriculum at **1337 School**, a member of the 42 Network.
 
 ---
 
