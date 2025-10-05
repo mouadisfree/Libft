@@ -1,6 +1,7 @@
 
 # Libft - My C Library
-![alt text](<Screenshot from 2025-10-05 08-51-46-1.png>)
+<img width="1550" height="953" alt="Libft" src="https://github.com/user-attachments/assets/6f9cbaa5-b366-42a8-8247-85e7be4196c2" />
+
 *My first C library project*
 ---
 ## What is this?
