@@ -1,5 +1,6 @@
 
 # Libft - 1337 School Custom C Library
+<img width="550" height="400" alt="Libft-550x400" src="https://github.com/user-attachments/assets/4deab243-2304-4789-8cd8-a1854fdf9747" />
 ![Libft Banner](https://github.com/user-attachments/assets/c37a59df-3dd9-4503-b97f-ff24cd1a8206)
 *Your first step into building a custom C library*
 ---
